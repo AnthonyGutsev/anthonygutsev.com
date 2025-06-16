@@ -4,8 +4,6 @@ date: 2025-06-16
 draft: false
 ---
 
-This blog is part of a fresh start.
-
-I'll be writing about my journey through Natural Sciences at Cambridge, recovering from burnout, preparing for a career in finance, and thoughts on life, rowing, and rebuilding momentum.
+I am starting this blog to track my progress, discuss topics I find interesting, and create something external.
 
 Thanks for reading.
